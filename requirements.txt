@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+joblib
+flask
+pytelegrambotapi
+google-generativeai
+langdetect
+python-dotenv
+googletrans==4.0.0rc1

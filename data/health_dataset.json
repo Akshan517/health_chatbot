@@ -1,0 +1,5931 @@
+[
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "rest",
+      "steam inhalation",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "severe headache",
+      "joint pain",
+      "rash"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "drink fluids",
+      "avoid mosquitoes",
+      "rest",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "nausea"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "use mosquito nets",
+      "take medication",
+      "avoid stagnant water",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent urination",
+      "increased thirst",
+      "weight loss",
+      "fatigue"
+    ],
+    "Disease": "Diabetes",
+    "Precautions": [
+      "monitor sugar",
+      "exercise",
+      "healthy diet",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "exercise",
+      "avoid fat",
+      "quit smoking",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "runny nose",
+      "sneezing",
+      "itchy eyes",
+      "congestion"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "avoid allergens",
+      "take antihistamines",
+      "clean environment",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "reduce stress",
+      "sleep well",
+      "avoid triggers",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "vomiting",
+      "fever"
+    ],
+    "Disease": "Food Poisoning",
+    "Precautions": [
+      "drink fluids",
+      "rest",
+      "avoid junk food",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sore throat",
+      "fever",
+      "difficulty swallowing",
+      "swelling"
+    ],
+    "Disease": "Tonsillitis",
+    "Precautions": [
+      "warm fluids",
+      "rest",
+      "avoid cold food",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness",
+      "dry skin"
+    ],
+    "Disease": "Eczema",
+    "Precautions": [
+      "moisturize",
+      "avoid irritants",
+      "use mild soap",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced movement"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "exercise",
+      "maintain weight",
+      "apply heat",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "Urinary Tract Infection",
+    "Precautions": [
+      "drink water",
+      "maintain hygiene",
+      "avoid holding urine",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent cough",
+      "weight loss",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "complete medication",
+      "cover mouth",
+      "avoid contact",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "yellow skin",
+      "dark urine",
+      "fatigue",
+      "abdominal pain"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "drink water",
+      "avoid alcohol",
+      "eat healthy",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "shortness of breath",
+      "wheezing",
+      "chest tightness",
+      "cough"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "avoid triggers",
+      "use inhaler",
+      "exercise carefully",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "loss of taste",
+      "dry cough",
+      "breathing difficulty"
+    ],
+    "Disease": "COVID-19",
+    "Precautions": [
+      "wear mask",
+      "isolate",
+      "wash hands",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "hair loss",
+      "fatigue",
+      "weight gain",
+      "dry skin"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "take medication",
+      "monitor levels",
+      "balanced diet",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "avoid iodine excess",
+      "reduce stress",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness",
+      "limited movement",
+      "muscle weakness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "exercise",
+      "good posture",
+      "avoid lifting",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "vaccination",
+      "rest",
+      "isolation",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "vomiting"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "hospital care",
+      "medication",
+      "rest",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "rest",
+      "fluids",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "blurred vision",
+      "eye pain",
+      "redness",
+      "tearing"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "avoid touching eyes",
+      "use drops",
+      "clean hands",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight gain",
+      "fatigue",
+      "cold intolerance",
+      "dry skin"
+    ],
+    "Disease": "Thyroid Disorder",
+    "Precautions": [
+      "medication",
+      "healthy diet",
+      "monitor levels",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "moisturize",
+      "avoid stress",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "eat light food",
+      "avoid spicy",
+      "drink water",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "rest",
+      "fluids",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "hearing loss",
+      "fluid discharge",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "keep ear dry",
+      "medication",
+      "avoid water",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sensitivity",
+      "bleeding gums"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "oral hygiene",
+      "avoid sugar",
+      "visit dentist",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "burning",
+      "redness",
+      "discharge"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "keep dry",
+      "use antifungal",
+      "clean clothes",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent thirst",
+      "blurred vision",
+      "fatigue",
+      "slow healing"
+    ],
+    "Disease": "Type 2 Diabetes",
+    "Precautions": [
+      "diet control",
+      "exercise",
+      "monitor sugar",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "muscle pain",
+      "fatigue",
+      "weakness",
+      "sleep issues"
+    ],
+    "Disease": "Fibromyalgia",
+    "Precautions": [
+      "exercise",
+      "reduce stress",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "memory loss",
+      "confusion",
+      "difficulty speaking",
+      "disorientation"
+    ],
+    "Disease": "Alzheimer",
+    "Precautions": [
+      "mental exercises",
+      "routine",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tremors",
+      "slow movement",
+      "rigidity",
+      "balance issues"
+    ],
+    "Disease": "Parkinson",
+    "Precautions": [
+      "exercise",
+      "therapy",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "burning sensation",
+      "acid reflux",
+      "nausea"
+    ],
+    "Disease": "GERD",
+    "Precautions": [
+      "avoid spicy food",
+      "eat small meals",
+      "stay upright",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "rash",
+      "swelling",
+      "allergic reaction"
+    ],
+    "Disease": "Urticaria",
+    "Precautions": [
+      "avoid allergens",
+      "medication",
+      "cool compress",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "leg pain",
+      "swelling",
+      "redness",
+      "warm skin"
+    ],
+    "Disease": "Deep Vein Thrombosis",
+    "Precautions": [
+      "exercise",
+      "avoid sitting long",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "bloody stool",
+      "diarrhea",
+      "fatigue"
+    ],
+    "Disease": "Ulcerative Colitis",
+    "Precautions": [
+      "diet control",
+      "medication",
+      "hydration",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "fatigue",
+      "rash",
+      "fever"
+    ],
+    "Disease": "Lupus",
+    "Precautions": [
+      "avoid sunlight",
+      "medication",
+      "rest",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep issues"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "therapy",
+      "exercise",
+      "social support",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "meditation",
+      "exercise",
+      "therapy",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sleep difficulty",
+      "fatigue",
+      "irritability",
+      "poor focus"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "sleep routine",
+      "avoid screens",
+      "relaxation",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "excess hunger",
+      "weight gain",
+      "fatigue",
+      "hormonal imbalance"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "exercise",
+      "diet control",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "pelvic pain",
+      "heavy periods",
+      "fatigue",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "pain management",
+      "exercise",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent headaches",
+      "vision problems",
+      "dizziness",
+      "nausea"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "medical care",
+      "monitor symptoms",
+      "rest",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "early detection",
+      "healthy lifestyle",
+      "treatment",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "medical care",
+      "screening",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "avoid alcohol",
+      "healthy diet",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "swelling",
+      "fatigue",
+      "reduced urine",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "control BP",
+      "diet control",
+      "hydration",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "dry cough",
+      "fatigue",
+      "breathing issues"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "avoid smoke",
+      "rest",
+      "hydration",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "joint pain",
+      "eye redness"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "avoid mosquitoes",
+      "rest",
+      "hydration",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "muscle pain",
+      "rash",
+      "joint pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "rest",
+      "hydration",
+      "avoid mosquitoes",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "bleeding",
+      "weakness",
+      "shock"
+    ],
+    "Disease": "Ebola",
+    "Precautions": [
+      "isolation",
+      "medical care",
+      "protective gear",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "confusion"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "medical care",
+      "rest",
+      "medication",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "clean water",
+      "hydration",
+      "hygiene",
+      "consult doctor"
+    ]
+  },
+  {
+    "Symptoms": [
+      "nervousness",
+      "sweating",
+      "tremors",
+      "itching"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "therapy",
+      "meditation",
+      "exercise",
+      "social support"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "loss of taste"
+    ],
+    "Disease": "COVID-19",
+    "Precautions": [
+      "isolate",
+      "hydration",
+      "wash hands",
+      "wear mask"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "nausea"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "take medication",
+      "rest",
+      "avoid stagnant water",
+      "use mosquito nets"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "avoid cold",
+      "fluids",
+      "rest",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "loss of appetite"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "avoid alcohol",
+      "medication",
+      "rest",
+      "healthy diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "fatigue"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "rest",
+      "hydration",
+      "avoid mosquitoes",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness",
+      "redness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "support",
+      "early detection",
+      "treatment",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "eat healthy",
+      "avoid alcohol",
+      "rest",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "hydration",
+      "maintain hygiene",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "vomiting",
+      "fever"
+    ],
+    "Disease": "Food Poisoning",
+    "Precautions": [
+      "drink fluids",
+      "avoid junk food",
+      "rest",
+      "bland diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "rest",
+      "avoid water",
+      "keep ear dry",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "vaccination",
+      "hydration",
+      "rest",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "eat healthy",
+      "avoid alcohol",
+      "rest",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent cough",
+      "weight loss",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "avoid contact",
+      "cover mouth",
+      "rest",
+      "complete medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "avoid stress",
+      "medication",
+      "moisturize",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache",
+      "dizziness"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "relaxation",
+      "sleep routine",
+      "exercise",
+      "avoid screens"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache",
+      "diarrhea"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "exercise",
+      "sleep routine",
+      "relaxation",
+      "avoid screens"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "medical care",
+      "exercise",
+      "screening"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "confusion"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "rest",
+      "medical care",
+      "hydration",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent cough",
+      "weight loss",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "avoid contact",
+      "complete medication",
+      "rest",
+      "cover mouth"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "treatment",
+      "support",
+      "early detection",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "diarrhea",
+      "vomiting",
+      "weakness",
+      "cough"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "clean water",
+      "hygiene",
+      "medical care",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "eye pain",
+      "redness",
+      "itching"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "avoid touching eyes",
+      "use drops",
+      "clean hands",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "rest",
+      "drink water",
+      "avoid spicy",
+      "eat light food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "pain management",
+      "exercise",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep issues"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "therapy",
+      "exercise",
+      "medication",
+      "social support"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "healthy diet",
+      "medication",
+      "avoid alcohol",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "healthy lifestyle",
+      "treatment",
+      "support",
+      "early detection"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "confusion",
+      "cough"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "hydration",
+      "medication",
+      "rest",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "exercise",
+      "good posture",
+      "avoid lifting",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "avoid cold",
+      "medication",
+      "fluids",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "rest",
+      "eat light food",
+      "avoid spicy",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "medication",
+      "isolation",
+      "fluids",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues",
+      "swelling"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "therapy",
+      "monitor symptoms",
+      "rest",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "dry cough",
+      "fatigue",
+      "breathing issues"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "hydration",
+      "medication",
+      "rest",
+      "avoid smoke"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sensitivity",
+      "bleeding gums"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "salt water rinse",
+      "avoid sugar",
+      "oral hygiene",
+      "visit dentist"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "vomiting",
+      "fever"
+    ],
+    "Disease": "Food Poisoning",
+    "Precautions": [
+      "rest",
+      "drink fluids",
+      "bland diet",
+      "avoid junk food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "rest",
+      "avoid cold",
+      "fluids",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "rest",
+      "avoid cold",
+      "medication",
+      "fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "pain relief",
+      "hydration",
+      "rest",
+      "avoid mosquitoes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent headaches",
+      "vision problems",
+      "dizziness",
+      "nausea"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "therapy",
+      "monitor symptoms",
+      "medical care",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight gain",
+      "weakness"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "balanced diet",
+      "take medication",
+      "exercise",
+      "monitor levels"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "vomiting",
+      "vision problems"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "sleep well",
+      "avoid triggers",
+      "rest",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "maintain hygiene",
+      "drink water",
+      "avoid holding urine",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "medical care",
+      "exercise",
+      "screening"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "medication",
+      "healthy diet",
+      "avoid alcohol",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent headaches",
+      "vision problems",
+      "dizziness",
+      "nausea"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "medical care",
+      "monitor symptoms",
+      "therapy",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "body pain",
+      "rash",
+      "headache"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "drink fluids",
+      "avoid mosquitoes",
+      "rest",
+      "pain management"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "keep dry",
+      "use antifungal",
+      "hygiene",
+      "clean clothes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "avoid fat",
+      "reduce stress",
+      "quit smoking",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "swelling"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "avoid allergens",
+      "clean environment",
+      "rest",
+      "take antihistamines"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "hygiene",
+      "clean clothes",
+      "keep dry",
+      "use antifungal"
+    ]
+  },
+  {
+    "Symptoms": [
+      "runny nose",
+      "sneezing",
+      "itchy eyes",
+      "congestion"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "take antihistamines",
+      "avoid allergens",
+      "clean environment",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "confusion"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "rest",
+      "medical care",
+      "hydration",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "exercise",
+      "avoid lifting",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "runny nose",
+      "fatigue"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "maintain hygiene",
+      "rest",
+      "steam inhalation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "blurred vision",
+      "eye pain",
+      "redness",
+      "tearing"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "use drops",
+      "clean hands",
+      "avoid touching eyes",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "healthy diet",
+      "avoid alcohol",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "social support",
+      "exercise",
+      "medication",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "swelling",
+      "fatigue",
+      "reduced urine",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "hydration",
+      "diet control",
+      "control BP",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "weight loss"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "cover mouth",
+      "rest",
+      "avoid contact",
+      "complete medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue",
+      "redness"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "medication",
+      "avoid cold",
+      "rest",
+      "fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep issues"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "social support",
+      "medication",
+      "therapy",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight gain",
+      "weakness"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "take medication",
+      "exercise",
+      "balanced diet",
+      "monitor levels"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "nausea",
+      "vomiting"
+    ],
+    "Disease": "GERD",
+    "Precautions": [
+      "rest",
+      "avoid spicy food",
+      "stay upright",
+      "eat small meals"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced movement"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "maintain weight",
+      "exercise",
+      "apply heat",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "urinary pain",
+      "frequent urination"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "hydration",
+      "maintain hygiene",
+      "drink water",
+      "avoid holding urine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "severe headache",
+      "joint pain",
+      "rash"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "pain management",
+      "drink fluids",
+      "rest",
+      "avoid mosquitoes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "avoid screens",
+      "sleep routine",
+      "exercise",
+      "relaxation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "nausea",
+      "vomiting"
+    ],
+    "Disease": "GERD",
+    "Precautions": [
+      "eat small meals",
+      "stay upright",
+      "rest",
+      "avoid spicy food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "medication",
+      "avoid stress",
+      "rest",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "avoid lifting",
+      "exercise",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "blurred vision",
+      "eye pain",
+      "redness",
+      "tearing"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "hydration",
+      "clean hands",
+      "avoid touching eyes",
+      "use drops"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "anxiety",
+      "sweating",
+      "lethargy"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "medication",
+      "reduce stress",
+      "rest",
+      "avoid iodine excess"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "swelling"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "diet control",
+      "hydration",
+      "medication",
+      "control BP"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "fatigue"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "avoid mosquitoes",
+      "medical care",
+      "hydration",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "medication",
+      "moisturize",
+      "avoid stress",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "meditation",
+      "social support",
+      "therapy",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "control BP",
+      "diet control",
+      "hydration",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "exercise",
+      "medical care",
+      "screening"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "fatigue",
+      "skin lesions"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "avoid mosquitoes",
+      "hydration",
+      "rest",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "muscle pain",
+      "rash",
+      "joint pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "hydration",
+      "pain relief",
+      "rest",
+      "avoid mosquitoes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "dry cough",
+      "fatigue",
+      "breathing issues"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "medication",
+      "avoid smoke",
+      "hydration",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "rest",
+      "avoid triggers",
+      "sleep well",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness",
+      "dry skin"
+    ],
+    "Disease": "Eczema",
+    "Precautions": [
+      "hydrate",
+      "use mild soap",
+      "moisturize",
+      "avoid irritants"
+    ]
+  },
+  {
+    "Symptoms": [
+      "breathing difficulty",
+      "coughing",
+      "head pain"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "avoid triggers",
+      "exercise carefully",
+      "use inhaler",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "nausea",
+      "vomiting",
+      "mild fever"
+    ],
+    "Disease": "GERD",
+    "Precautions": [
+      "stay upright",
+      "rest",
+      "eat small meals",
+      "avoid spicy food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "avoid cold",
+      "rest",
+      "fluids",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest tightness",
+      "breathing difficulty",
+      "weakness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "reduce stress",
+      "quit smoking",
+      "avoid fat",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "avoid iodine excess",
+      "reduce stress",
+      "rest",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "confusion"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "rest",
+      "medical care",
+      "medication",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "hair loss",
+      "fatigue",
+      "weight gain",
+      "dry skin"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "take medication",
+      "exercise",
+      "monitor levels",
+      "balanced diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "exercise",
+      "medical care",
+      "screening",
+      "quit smoking"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "muscle pain",
+      "rash",
+      "joint pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "rest",
+      "hydration",
+      "pain relief",
+      "avoid mosquitoes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "exercise",
+      "quit smoking",
+      "screening",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "rash"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "hydration",
+      "medication",
+      "diet control",
+      "control BP"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "joint pain",
+      "eye redness"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "hydration",
+      "rest",
+      "medical care",
+      "avoid mosquitoes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "screening",
+      "medical care",
+      "exercise",
+      "quit smoking"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "rest",
+      "healthy diet",
+      "avoid alcohol",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "screening",
+      "medical care",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "burning",
+      "redness",
+      "discharge"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "use antifungal",
+      "keep dry",
+      "clean clothes",
+      "hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "avoid screens",
+      "exercise",
+      "sleep routine",
+      "relaxation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "avoid screens",
+      "sleep routine",
+      "exercise",
+      "relaxation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "swelling",
+      "fatigue",
+      "reduced urine",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "control BP",
+      "medication",
+      "diet control",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "hydration",
+      "isolation",
+      "rest",
+      "vaccination"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "isolation",
+      "vaccination",
+      "rest",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "hydration",
+      "avoid smoke",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "yellow skin",
+      "dark urine",
+      "fatigue",
+      "abdominal pain"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "eat healthy",
+      "drink water",
+      "rest",
+      "avoid alcohol"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "hydration",
+      "drink water",
+      "maintain hygiene",
+      "avoid holding urine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "meditation",
+      "exercise",
+      "therapy",
+      "social support"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness",
+      "dry skin"
+    ],
+    "Disease": "Eczema",
+    "Precautions": [
+      "avoid irritants",
+      "moisturize",
+      "use mild soap",
+      "hydrate"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "dry cough",
+      "fatigue",
+      "breathing issues"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "medication",
+      "avoid smoke",
+      "rest",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "rest",
+      "medication",
+      "avoid alcohol",
+      "healthy diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "pelvic pain",
+      "heavy periods",
+      "fatigue",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "medication",
+      "pain management",
+      "rest",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "vomiting"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "rest",
+      "hospital care",
+      "isolation",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "pelvic pain",
+      "heavy periods",
+      "fatigue",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "pain management",
+      "rest",
+      "medication",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep issues"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "exercise",
+      "medication",
+      "social support",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness",
+      "limited movement",
+      "muscle weakness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "rest",
+      "avoid lifting",
+      "exercise",
+      "good posture"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "drink water",
+      "hydration",
+      "avoid holding urine",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "rest",
+      "avoid alcohol",
+      "medication",
+      "healthy diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "early detection",
+      "support",
+      "treatment",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent cough",
+      "weight loss",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "complete medication",
+      "rest",
+      "avoid contact",
+      "cover mouth"
+    ]
+  },
+  {
+    "Symptoms": [
+      "shortness of breath",
+      "wheezing",
+      "chest tightness",
+      "cough"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "use inhaler",
+      "rest",
+      "avoid triggers",
+      "exercise carefully"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "tremors"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "salt water rinse",
+      "avoid sugar",
+      "oral hygiene",
+      "visit dentist"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sensitivity",
+      "bleeding gums"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "oral hygiene",
+      "visit dentist",
+      "salt water rinse",
+      "avoid sugar"
+    ]
+  },
+  {
+    "Symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "drink water",
+      "eat light food",
+      "avoid spicy",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "support",
+      "treatment",
+      "healthy lifestyle",
+      "early detection"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "medication",
+      "exercise",
+      "pain management",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "avoid triggers",
+      "rest",
+      "reduce stress",
+      "sleep well"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "rest",
+      "medication",
+      "moisturize",
+      "avoid stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "reduce stress",
+      "avoid triggers",
+      "sleep well",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "clean water",
+      "hydration",
+      "hygiene",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "hydration",
+      "maintain hygiene",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "rest",
+      "steam inhalation",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "blurred vision"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "rest",
+      "drink water",
+      "eat healthy",
+      "avoid alcohol"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "early detection",
+      "treatment",
+      "support",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "exercise",
+      "social support",
+      "therapy",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "support",
+      "healthy lifestyle",
+      "treatment",
+      "early detection"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "moisturize",
+      "rest",
+      "medication",
+      "avoid stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "medication",
+      "control BP",
+      "diet control",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "muscle pain",
+      "rash",
+      "joint pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "rest",
+      "avoid mosquitoes",
+      "pain relief",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "severe headache",
+      "joint pain",
+      "rash"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "rest",
+      "avoid mosquitoes",
+      "drink fluids",
+      "pain management"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "rest",
+      "avoid cold",
+      "fluids",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "hydration",
+      "isolation",
+      "vaccination",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "quit smoking",
+      "screening",
+      "exercise",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness",
+      "limited movement",
+      "muscle weakness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "avoid lifting",
+      "rest",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "therapy",
+      "exercise",
+      "social support",
+      "meditation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "chills"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "rest",
+      "healthy diet",
+      "medication",
+      "avoid alcohol"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "medication",
+      "control BP",
+      "hydration",
+      "diet control"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "healthy lifestyle",
+      "support",
+      "treatment",
+      "early detection"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "shortness of breath",
+      "vomiting"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "medication",
+      "hydration",
+      "avoid smoke",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "vomiting",
+      "vision problems"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "reduce stress",
+      "avoid triggers",
+      "sleep well",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "nausea"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "take medication",
+      "avoid stagnant water",
+      "rest",
+      "use mosquito nets"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "moisturize",
+      "rest",
+      "medication",
+      "avoid stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "rest",
+      "isolation",
+      "fluids",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "exercise",
+      "quit smoking",
+      "medical care",
+      "screening"
+    ]
+  },
+  {
+    "Symptoms": [
+      "throat pain",
+      "fever",
+      "swelling"
+    ],
+    "Disease": "Tonsillitis",
+    "Precautions": [
+      "rest",
+      "throat lozenges",
+      "warm fluids",
+      "avoid cold food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "hair loss",
+      "fatigue",
+      "weight gain",
+      "dry skin"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "take medication",
+      "exercise",
+      "monitor levels",
+      "balanced diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent fever",
+      "muscle pain",
+      "fatigue",
+      "vomiting"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "take medication",
+      "avoid stagnant water",
+      "rest",
+      "use mosquito nets"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "medication",
+      "avoid stress",
+      "rest",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "rest",
+      "drink warm fluids",
+      "steam inhalation",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "runny nose",
+      "fatigue"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "rest",
+      "maintain hygiene",
+      "steam inhalation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "monitor symptoms",
+      "rest",
+      "therapy",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "avoid spicy",
+      "eat light food",
+      "drink water",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "swelling",
+      "fatigue",
+      "reduced urine",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "control BP",
+      "hydration",
+      "diet control",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "blurred vision",
+      "eye pain",
+      "redness",
+      "tearing"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "hydration",
+      "use drops",
+      "avoid touching eyes",
+      "clean hands"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "body pain",
+      "rash",
+      "headache"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "drink fluids",
+      "avoid mosquitoes",
+      "pain management",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "medication",
+      "hydration",
+      "avoid smoke",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "rest",
+      "medication",
+      "avoid water",
+      "keep ear dry"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "avoid water",
+      "rest",
+      "keep ear dry",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea",
+      "fever with chills"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "drink water",
+      "rest",
+      "avoid spicy",
+      "eat light food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache",
+      "sensitivity to light"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "sleep routine",
+      "avoid screens",
+      "relaxation",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "reduce stress",
+      "avoid triggers",
+      "sleep well",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "fluids",
+      "rest",
+      "medication",
+      "avoid cold"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "weight loss"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "rest",
+      "complete medication",
+      "cover mouth",
+      "avoid contact"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "nausea"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "rest",
+      "take medication",
+      "use mosquito nets",
+      "avoid stagnant water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "hydration",
+      "clean water",
+      "hygiene",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "swelling"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "clean environment",
+      "take antihistamines",
+      "avoid allergens",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "relaxation",
+      "sleep routine",
+      "exercise",
+      "avoid screens"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "rest",
+      "avoid spicy",
+      "drink water",
+      "eat light food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight gain",
+      "weakness"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "balanced diet",
+      "monitor levels",
+      "take medication",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "sleep well",
+      "avoid triggers",
+      "rest",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "breathing difficulty",
+      "coughing",
+      "tremors"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "exercise carefully",
+      "rest",
+      "avoid triggers",
+      "use inhaler"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "clean water",
+      "hydration",
+      "hygiene",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "eye pain",
+      "redness",
+      "itching",
+      "muscle pain"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "use drops",
+      "hydration",
+      "clean hands",
+      "avoid touching eyes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fever",
+      "fatigue",
+      "hives"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "medication",
+      "rest",
+      "fluids",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced movement"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "rest",
+      "maintain weight",
+      "exercise",
+      "apply heat"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "maintain hygiene",
+      "rest",
+      "steam inhalation",
+      "drink warm fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "vomiting",
+      "vision problems"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "sleep well",
+      "reduce stress",
+      "avoid triggers",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent fever",
+      "muscle pain",
+      "fatigue"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "use mosquito nets",
+      "take medication",
+      "avoid stagnant water",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "avoid screens",
+      "relaxation",
+      "exercise",
+      "sleep routine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "hydration",
+      "drink water",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sore throat",
+      "fever",
+      "difficulty swallowing",
+      "swelling"
+    ],
+    "Disease": "Tonsillitis",
+    "Precautions": [
+      "throat lozenges",
+      "warm fluids",
+      "avoid cold food",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent headaches",
+      "vision problems",
+      "dizziness",
+      "nausea"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "medical care",
+      "rest",
+      "therapy",
+      "monitor symptoms"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue",
+      "vomiting"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "medication",
+      "rest",
+      "fluids",
+      "avoid cold"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sweating"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "avoid sugar",
+      "visit dentist",
+      "salt water rinse",
+      "oral hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "medication",
+      "hydration",
+      "control BP",
+      "diet control"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weakness",
+      "frequent urination",
+      "weight loss"
+    ],
+    "Disease": "Diabetes",
+    "Precautions": [
+      "check-ups",
+      "exercise",
+      "monitor sugar",
+      "healthy diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "anxiety",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "medication",
+      "avoid iodine excess",
+      "reduce stress",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "treatment",
+      "support",
+      "early detection",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "maintain weight",
+      "apply heat",
+      "rest",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent urination",
+      "increased thirst",
+      "weight loss",
+      "fatigue"
+    ],
+    "Disease": "Diabetes",
+    "Precautions": [
+      "exercise",
+      "check-ups",
+      "healthy diet",
+      "monitor sugar"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "pain"
+    ],
+    "Disease": "Chikungunya",
+    "Precautions": [
+      "avoid mosquitoes",
+      "rest",
+      "pain relief",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "use antifungal",
+      "hygiene",
+      "clean clothes",
+      "keep dry"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "maintain hygiene",
+      "steam inhalation",
+      "rest",
+      "drink warm fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues",
+      "back pain"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "medical care",
+      "monitor symptoms",
+      "therapy",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "rest",
+      "medication",
+      "avoid stress",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "breathing difficulty",
+      "coughing"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "exercise carefully",
+      "rest",
+      "use inhaler",
+      "avoid triggers"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight gain",
+      "fatigue",
+      "weakness",
+      "confusion"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "diet control",
+      "monitoring",
+      "medication",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "medication",
+      "rest",
+      "avoid stress",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "exercise",
+      "relaxation",
+      "avoid screens",
+      "sleep routine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "swelling"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "avoid allergens",
+      "clean environment",
+      "take antihistamines",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "treatment",
+      "healthy lifestyle",
+      "support",
+      "early detection"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "medication",
+      "therapy",
+      "exercise",
+      "social support"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "vomiting",
+      "vision problems"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "avoid triggers",
+      "rest",
+      "reduce stress",
+      "sleep well"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "runny nose",
+      "fatigue",
+      "skin lesions"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "maintain hygiene",
+      "steam inhalation",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "nervousness",
+      "sweating",
+      "tremors"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "therapy",
+      "social support",
+      "meditation",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent urination",
+      "increased thirst",
+      "weight loss",
+      "fatigue"
+    ],
+    "Disease": "Diabetes",
+    "Precautions": [
+      "monitor sugar",
+      "check-ups",
+      "healthy diet",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "pelvic pain",
+      "heavy periods",
+      "fatigue",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "medication",
+      "rest",
+      "exercise",
+      "pain management"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sensitivity",
+      "bleeding gums"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "avoid sugar",
+      "visit dentist",
+      "oral hygiene",
+      "salt water rinse"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight gain",
+      "fatigue",
+      "weakness"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "diet control",
+      "exercise",
+      "monitoring",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "urinary pain",
+      "frequent urination"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "maintain hygiene",
+      "drink water",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "avoid fat",
+      "exercise",
+      "reduce stress",
+      "quit smoking"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "vomiting"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "rest",
+      "medication",
+      "hospital care",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "exercise",
+      "medical care",
+      "quit smoking",
+      "screening"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "rest",
+      "avoid cold",
+      "fluids",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "isolation",
+      "vaccination",
+      "rest",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "bloating"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "medication",
+      "control BP",
+      "hydration",
+      "diet control"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "vomiting",
+      "fever"
+    ],
+    "Disease": "Food Poisoning",
+    "Precautions": [
+      "rest",
+      "bland diet",
+      "avoid junk food",
+      "drink fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "nausea"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "avoid stagnant water",
+      "rest",
+      "use mosquito nets",
+      "take medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "drink warm fluids",
+      "steam inhalation",
+      "rest",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "fluids",
+      "medication",
+      "rest",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "hair loss",
+      "fatigue",
+      "weight gain",
+      "dry skin"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "take medication",
+      "monitor levels",
+      "balanced diet",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "rest",
+      "avoid lifting",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "pelvic pain",
+      "heavy periods",
+      "fatigue",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "pain management",
+      "medication",
+      "rest",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness",
+      "limited movement",
+      "muscle weakness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "exercise",
+      "rest",
+      "avoid lifting"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "avoid fat",
+      "exercise",
+      "quit smoking",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "runny nose",
+      "fatigue"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "steam inhalation",
+      "maintain hygiene",
+      "drink warm fluids",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "maintain weight",
+      "exercise",
+      "rest",
+      "apply heat"
+    ]
+  },
+  {
+    "Symptoms": [
+      "frequent headaches",
+      "vision problems",
+      "dizziness",
+      "nausea"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "therapy",
+      "monitor symptoms",
+      "medical care",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "breathing difficulty",
+      "coughing",
+      "hearing loss"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "use inhaler",
+      "avoid triggers",
+      "exercise carefully",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "vomiting"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "rest",
+      "sleep well",
+      "avoid triggers",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "hearing loss",
+      "fluid discharge",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "keep ear dry",
+      "medication",
+      "rest",
+      "avoid water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "fluids",
+      "rest",
+      "medication",
+      "avoid cold"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "social support",
+      "meditation",
+      "exercise",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "rest",
+      "medication",
+      "reduce stress",
+      "avoid iodine excess"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "therapy",
+      "rest",
+      "monitor symptoms",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "dry cough",
+      "fatigue",
+      "breathing issues"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "medication",
+      "avoid smoke",
+      "hydration",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "excess hunger",
+      "weight gain",
+      "fatigue",
+      "hormonal imbalance"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "exercise",
+      "medication",
+      "diet control",
+      "monitoring"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "medication",
+      "avoid stress",
+      "moisturize",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "keep dry",
+      "hygiene",
+      "clean clothes",
+      "use antifungal"
+    ]
+  },
+  {
+    "Symptoms": [
+      "diarrhea",
+      "vomiting",
+      "weakness"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "medical care",
+      "hygiene",
+      "clean water",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "hydration",
+      "hygiene",
+      "clean water",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling",
+      "sensitivity",
+      "bleeding gums"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "visit dentist",
+      "avoid sugar",
+      "oral hygiene",
+      "salt water rinse"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "relaxation",
+      "avoid screens",
+      "exercise",
+      "sleep routine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "social support",
+      "therapy",
+      "meditation",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "maintain hygiene",
+      "avoid holding urine",
+      "hydration",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "blurred vision",
+      "eye pain",
+      "redness",
+      "tearing"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "avoid touching eyes",
+      "use drops",
+      "hydration",
+      "clean hands"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues",
+      "night sweats"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "rest",
+      "monitor symptoms",
+      "medical care",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "medication",
+      "rest",
+      "reduce stress",
+      "avoid iodine excess"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "hearing loss",
+      "fluid discharge",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "rest",
+      "keep ear dry",
+      "medication",
+      "avoid water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "maintain hygiene",
+      "drink warm fluids",
+      "steam inhalation",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "rest",
+      "fluids",
+      "isolation",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "persistent fever",
+      "muscle pain",
+      "fatigue",
+      "abdominal pain"
+    ],
+    "Disease": "Malaria",
+    "Precautions": [
+      "avoid stagnant water",
+      "use mosquito nets",
+      "take medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea",
+      "cough"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "avoid spicy",
+      "eat light food",
+      "drink water",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "nausea",
+      "diarrhea",
+      "stomach pain"
+    ],
+    "Disease": "Food Poisoning",
+    "Precautions": [
+      "rest",
+      "drink fluids",
+      "bland diet",
+      "avoid junk food"
+    ]
+  },
+  {
+    "Symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced movement"
+    ],
+    "Disease": "Arthritis",
+    "Precautions": [
+      "rest",
+      "exercise",
+      "apply heat",
+      "maintain weight"
+    ]
+  },
+  {
+    "Symptoms": [
+      "yellow skin",
+      "dark urine",
+      "fatigue",
+      "abdominal pain"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "eat healthy",
+      "avoid alcohol",
+      "drink water",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea",
+      "memory loss"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "exercise",
+      "medication",
+      "pain management",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "body pain",
+      "rash",
+      "headache"
+    ],
+    "Disease": "Dengue",
+    "Precautions": [
+      "avoid mosquitoes",
+      "rest",
+      "drink fluids",
+      "pain management"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fever",
+      "fatigue"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "fluids",
+      "isolation",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Kidney Disease",
+    "Precautions": [
+      "medication",
+      "hydration",
+      "diet control",
+      "control BP"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea",
+      "dehydration"
+    ],
+    "Disease": "Cholera",
+    "Precautions": [
+      "hydration",
+      "hygiene",
+      "medical care",
+      "clean water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "social support",
+      "therapy",
+      "exercise",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "medical care",
+      "quit smoking",
+      "screening",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "burning",
+      "redness",
+      "discharge"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "hygiene",
+      "use antifungal",
+      "keep dry",
+      "clean clothes"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "body pain"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "maintain hygiene",
+      "rest",
+      "drink warm fluids",
+      "steam inhalation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "loss of taste",
+      "dry cough",
+      "breathing difficulty"
+    ],
+    "Disease": "COVID-19",
+    "Precautions": [
+      "isolate",
+      "wash hands",
+      "hydration",
+      "wear mask"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "hydration",
+      "vaccination",
+      "isolation",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "yellow skin",
+      "dark urine",
+      "fatigue",
+      "abdominal pain"
+    ],
+    "Disease": "Jaundice",
+    "Precautions": [
+      "avoid alcohol",
+      "drink water",
+      "rest",
+      "eat healthy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "reduce stress",
+      "quit smoking",
+      "avoid fat",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "fatigue",
+      "night sweats",
+      "fever"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "support",
+      "treatment",
+      "early detection",
+      "healthy lifestyle"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "avoid iodine excess",
+      "medication",
+      "rest",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Fungal Infection",
+    "Precautions": [
+      "clean clothes",
+      "keep dry",
+      "hygiene",
+      "use antifungal"
+    ]
+  },
+  {
+    "Symptoms": [
+      "headache",
+      "dizziness",
+      "vision issues",
+      "fatigue"
+    ],
+    "Disease": "Brain Tumor",
+    "Precautions": [
+      "medical care",
+      "therapy",
+      "monitor symptoms",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness",
+      "eye pain"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "medication",
+      "exercise",
+      "therapy",
+      "social support"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "confusion",
+      "persistent fever"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "medication",
+      "medical care",
+      "hydration",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "reduce stress",
+      "quit smoking",
+      "exercise",
+      "avoid fat"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "avoid lifting",
+      "rest",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "excess hunger",
+      "weight gain",
+      "fatigue",
+      "hormonal imbalance"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "exercise",
+      "monitoring",
+      "diet control",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "fever"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "keep ear dry",
+      "rest",
+      "avoid water",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "nausea",
+      "vomiting",
+      "cloudy urine"
+    ],
+    "Disease": "GERD",
+    "Precautions": [
+      "rest",
+      "avoid spicy food",
+      "stay upright",
+      "eat small meals"
+    ]
+  },
+  {
+    "Symptoms": [
+      "urinary pain",
+      "frequent urination"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "drink water",
+      "hydration",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "red eyes",
+      "runny nose"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "vaccination",
+      "isolation",
+      "hydration",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "fever",
+      "neck stiffness"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "rest",
+      "hospital care",
+      "isolation",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness",
+      "limited movement",
+      "muscle weakness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "avoid lifting",
+      "rest",
+      "exercise",
+      "good posture"
+    ]
+  },
+  {
+    "Symptoms": [
+      "excess hunger",
+      "weight gain",
+      "fatigue",
+      "hormonal imbalance"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "diet control",
+      "medication",
+      "exercise",
+      "monitoring"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "avoid alcohol",
+      "healthy diet",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "eye pain",
+      "redness",
+      "itching",
+      "cough"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "clean hands",
+      "hydration",
+      "avoid touching eyes",
+      "use drops"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "cough",
+      "blood sputum",
+      "weight loss"
+    ],
+    "Disease": "Lung Cancer",
+    "Precautions": [
+      "medical care",
+      "screening",
+      "quit smoking",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "nervousness",
+      "sweating",
+      "tremors"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "exercise",
+      "social support",
+      "therapy",
+      "meditation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight gain",
+      "fatigue",
+      "weakness"
+    ],
+    "Disease": "PCOS",
+    "Precautions": [
+      "monitoring",
+      "medication",
+      "diet control",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness",
+      "blurred vision"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "social support",
+      "exercise",
+      "medication",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "medication",
+      "avoid cold",
+      "rest",
+      "fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "Disease": "Liver Disease",
+    "Precautions": [
+      "avoid alcohol",
+      "medication",
+      "rest",
+      "healthy diet"
+    ]
+  },
+  {
+    "Symptoms": [
+      "abdominal pain",
+      "constipation",
+      "bloating",
+      "gas"
+    ],
+    "Disease": "Indigestion",
+    "Precautions": [
+      "rest",
+      "drink water",
+      "eat light food",
+      "avoid spicy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "loss of taste",
+      "dry cough",
+      "breathing difficulty"
+    ],
+    "Disease": "COVID-19",
+    "Precautions": [
+      "wear mask",
+      "hydration",
+      "wash hands",
+      "isolate"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "fatigue",
+      "numbness"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "rest",
+      "avoid mosquitoes",
+      "hydration",
+      "medical care"
+    ]
+  },
+  {
+    "Symptoms": [
+      "tooth pain",
+      "swelling"
+    ],
+    "Disease": "Dental Infection",
+    "Precautions": [
+      "oral hygiene",
+      "visit dentist",
+      "salt water rinse",
+      "avoid sugar"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "loss of taste",
+      "dry cough",
+      "breathing difficulty"
+    ],
+    "Disease": "COVID-19",
+    "Precautions": [
+      "wash hands",
+      "wear mask",
+      "isolate",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "breathing difficulty",
+      "coughing"
+    ],
+    "Disease": "Asthma",
+    "Precautions": [
+      "avoid triggers",
+      "exercise carefully",
+      "rest",
+      "use inhaler"
+    ]
+  },
+  {
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ],
+    "Disease": "Heart Disease",
+    "Precautions": [
+      "exercise",
+      "quit smoking",
+      "avoid fat",
+      "reduce stress"
+    ]
+  },
+  {
+    "Symptoms": [
+      "runny nose",
+      "sneezing",
+      "itchy eyes",
+      "congestion"
+    ],
+    "Disease": "Allergy",
+    "Precautions": [
+      "clean environment",
+      "rest",
+      "take antihistamines",
+      "avoid allergens"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "isolation",
+      "rest",
+      "vaccination",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "avoid stress",
+      "rest",
+      "moisturize",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "weight loss",
+      "blurred vision"
+    ],
+    "Disease": "Tuberculosis",
+    "Precautions": [
+      "cover mouth",
+      "rest",
+      "complete medication",
+      "avoid contact"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "confusion"
+    ],
+    "Disease": "Encephalitis",
+    "Precautions": [
+      "rest",
+      "medical care",
+      "medication",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "itching",
+      "red patches",
+      "scaling",
+      "dryness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "moisturize",
+      "avoid stress",
+      "rest",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "fever",
+      "neck stiffness"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "isolation",
+      "hospital care",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "fatigue"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "medical care",
+      "avoid mosquitoes",
+      "rest",
+      "hydration"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "rest",
+      "avoid stress",
+      "medication",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "high fever",
+      "muscle pain",
+      "fatigue"
+    ],
+    "Disease": "Viral Fever",
+    "Precautions": [
+      "medication",
+      "rest",
+      "avoid cold",
+      "fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "joint pain",
+      "eye redness"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "hydration",
+      "avoid mosquitoes",
+      "medical care",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "Disease": "Measles",
+    "Precautions": [
+      "hydration",
+      "rest",
+      "vaccination",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "ear pain",
+      "fever",
+      "fever with chills"
+    ],
+    "Disease": "Ear Infection",
+    "Precautions": [
+      "avoid water",
+      "medication",
+      "rest",
+      "keep ear dry"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "nervousness",
+      "sweating"
+    ],
+    "Disease": "Hyperthyroidism",
+    "Precautions": [
+      "avoid iodine excess",
+      "medication",
+      "reduce stress",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "eye pain",
+      "redness",
+      "itching"
+    ],
+    "Disease": "Conjunctivitis",
+    "Precautions": [
+      "avoid touching eyes",
+      "clean hands",
+      "hydration",
+      "use drops"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sleep difficulty",
+      "fatigue",
+      "irritability",
+      "poor focus"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "exercise",
+      "sleep routine",
+      "relaxation",
+      "avoid screens"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight gain",
+      "weakness",
+      "weight gain"
+    ],
+    "Disease": "Hypothyroidism",
+    "Precautions": [
+      "balanced diet",
+      "monitor levels",
+      "exercise",
+      "take medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "anxiety",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating"
+    ],
+    "Disease": "Anxiety Disorder",
+    "Precautions": [
+      "social support",
+      "exercise",
+      "meditation",
+      "therapy"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "moisturize",
+      "avoid stress",
+      "rest",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "back pain",
+      "stiffness"
+    ],
+    "Disease": "Back Pain",
+    "Precautions": [
+      "good posture",
+      "rest",
+      "avoid lifting",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness",
+      "numbness"
+    ],
+    "Disease": "Psoriasis",
+    "Precautions": [
+      "rest",
+      "avoid stress",
+      "medication",
+      "moisturize"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "shortness of breath",
+      "loss of taste"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "avoid smoke",
+      "hydration",
+      "medication",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "severe headache",
+      "vomiting",
+      "vision problems",
+      "tremors"
+    ],
+    "Disease": "Migraine",
+    "Precautions": [
+      "sleep well",
+      "rest",
+      "reduce stress",
+      "avoid triggers"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "avoid screens",
+      "exercise",
+      "relaxation",
+      "sleep routine"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "avoid holding urine",
+      "drink water",
+      "hydration",
+      "maintain hygiene"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weakness",
+      "nausea"
+    ],
+    "Disease": "Endometriosis",
+    "Precautions": [
+      "medication",
+      "exercise",
+      "pain management",
+      "rest"
+    ]
+  },
+  {
+    "Symptoms": [
+      "sneezing",
+      "runny nose",
+      "mild fever",
+      "cough"
+    ],
+    "Disease": "Flu",
+    "Precautions": [
+      "rest",
+      "fluids",
+      "isolation",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "Disease": "Bronchitis",
+    "Precautions": [
+      "hydration",
+      "avoid smoke",
+      "rest",
+      "medication"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "sadness",
+      "weakness"
+    ],
+    "Disease": "Depression",
+    "Precautions": [
+      "therapy",
+      "medication",
+      "social support",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "headache",
+      "stiff neck",
+      "vomiting"
+    ],
+    "Disease": "Meningitis",
+    "Precautions": [
+      "medication",
+      "rest",
+      "hospital care",
+      "isolation"
+    ]
+  },
+  {
+    "Symptoms": [
+      "skin rash",
+      "itching",
+      "redness",
+      "dry skin"
+    ],
+    "Disease": "Eczema",
+    "Precautions": [
+      "avoid irritants",
+      "moisturize",
+      "hydrate",
+      "use mild soap"
+    ]
+  },
+  {
+    "Symptoms": [
+      "weakness",
+      "frequent urination",
+      "weight loss",
+      "vomiting"
+    ],
+    "Disease": "Diabetes",
+    "Precautions": [
+      "healthy diet",
+      "check-ups",
+      "monitor sugar",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "cough",
+      "runny nose",
+      "fatigue"
+    ],
+    "Disease": "Common Cold",
+    "Precautions": [
+      "rest",
+      "steam inhalation",
+      "maintain hygiene",
+      "drink warm fluids"
+    ]
+  },
+  {
+    "Symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pain"
+    ],
+    "Disease": "UTI",
+    "Precautions": [
+      "maintain hygiene",
+      "hydration",
+      "avoid holding urine",
+      "drink water"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "irritability",
+      "headache"
+    ],
+    "Disease": "Insomnia",
+    "Precautions": [
+      "relaxation",
+      "sleep routine",
+      "avoid screens",
+      "exercise"
+    ]
+  },
+  {
+    "Symptoms": [
+      "dry skin",
+      "itching",
+      "redness",
+      "rash"
+    ],
+    "Disease": "Eczema",
+    "Precautions": [
+      "hydrate",
+      "avoid irritants",
+      "moisturize",
+      "use mild soap"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fatigue",
+      "weight loss",
+      "weakness"
+    ],
+    "Disease": "Cancer",
+    "Precautions": [
+      "early detection",
+      "support",
+      "healthy lifestyle",
+      "treatment"
+    ]
+  },
+  {
+    "Symptoms": [
+      "fever",
+      "rash",
+      "joint pain",
+      "eye redness"
+    ],
+    "Disease": "Zika Virus",
+    "Precautions": [
+      "medical care",
+      "avoid mosquitoes",
+      "rest",
+      "hydration"
+    ]
+  }
+]
